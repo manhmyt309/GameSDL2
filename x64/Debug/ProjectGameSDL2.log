@@ -1,0 +1,12 @@
+﻿  BulletObject.cpp
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'BulletObject.cpp')
+  
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'BulletObject.cpp')
+  
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\BulletObject.cpp(86,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\BulletObject.cpp(87,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\BulletObject.cpp(108,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\gameSDL2\ProjectGameSDL2\ProjectGameSDL2\BulletObject.cpp(109,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ProjectGameSDL2.vcxproj -> C:\gameSDL2\ProjectGameSDL2\x64\Debug\ProjectGameSDL2.exe
